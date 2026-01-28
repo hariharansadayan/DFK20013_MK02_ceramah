@@ -20,6 +20,6 @@ document.getElementById("bookingForm").addEventListener("submit", function (e) {
             <p><strong>Kategori:</strong> ${kategori}</p>
             <p><strong>Bilangan Slot:</strong> ${slot}</p>
             <p><strong>Jumlah Bayaran:</strong> RM ${jumlah}</p>
-        </div>
+        </div>sssss
     `;
 });
